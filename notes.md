@@ -1,0 +1,2 @@
+1. given two numbers, do one thing or the other one time. time complexity O(1); same for space
+2. iterating over the array, so in the worst case, time complexity depends on the number of elements in the array, n. time complexity is 'linear', aka O(n).

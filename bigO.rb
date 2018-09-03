@@ -14,5 +14,19 @@ def example11(n)
     end
 end
 
+#1
+def add(a, b)
+  if a > b
+    return a + b
+  end
 
+  a - b
+end
+
+#2
+def print_arr_1(arr)
+  arr.each do |idx|
+    puts idx
+  end
+end
 
